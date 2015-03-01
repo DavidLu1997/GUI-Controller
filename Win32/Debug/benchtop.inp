@@ -1,0 +1,10 @@
+delay=100
+multiplier=10
+countmmX=51.5
+countmmY=51.5
+countmmZ=1000
+speed=10
+velocity=10000
+acceleration=10000
+deceleration=10000
+jerk=1000

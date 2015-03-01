@@ -1,0 +1,10 @@
+acceleration = 10000
+countmmX = 50
+countmmY = 50
+countmmZ = 1000
+deceleration = 10000
+delay = 100
+jerk = 1000
+multiplier = 10
+speed = 10
+velocity = 10000
